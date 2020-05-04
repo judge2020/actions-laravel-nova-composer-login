@@ -1,3 +1,9 @@
+
+# Note: this was for the old HCL-based GitHub Actions. See [instructions for the YML syntax actions](https://github.com/judge2020/actions-laravel-nova-composer-login/issues/1#issuecomment-623671063).
+
+---
+
+
 This package allows you to have a GitHub action that authorizes/logs you in to allow downloading releases from nova.laravel.com. This matches [Authenticating Nova in Continuous Integration (CI) Environments](https://nova.laravel.com/docs/2.0/installation.html#authenticating-nova-in-continuous-integration-ci-environments) from the docs.
 
 #### Usage
